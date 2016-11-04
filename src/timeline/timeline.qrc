@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/timeline">
+        <file>stcitem.basic.frag</file>
+        <file>stcitem.basic.vert</file>
+        <file>stcitem.skin.frag</file>
+        <file>stcitem.skin.vert</file>
+        <file>stcitem.volume.frag</file>
+        <file>stcitem.volume.geom</file>
+        <file>stcitem.volume.vert</file>
+    </qresource>
+</RCC>
