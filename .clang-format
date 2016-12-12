@@ -1,0 +1,1 @@
+{ BasedOnStyle: "WebKit", Standard: "Cpp11", BreakBeforeBraces: "Attach" }
