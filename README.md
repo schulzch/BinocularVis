@@ -2,7 +2,7 @@
 
 BinocularVis is a [data cleansing](https://en.wikipedia.org/wiki/Data_cleansing) tool for low-level time-varying data.
 
-Note: This is a (quite hacky, here and there) research prototype. If you're interested in using it, please contact me.
+Note: This is a research prototype. The graph editing has been replaced with hard coded graphs (see `mainwindow.cpp`) due to licensing issues. If you're interested in using it, please contact me.
 
 ## Building
 
